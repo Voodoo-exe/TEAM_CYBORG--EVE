@@ -6,12 +6,12 @@
  EVE- shorty written for EVent Engineers - aims to deliver a single platform to all the event organisation needs. However costly the event management industry maybe, it won't be wrong to say that they really haven't stepped up from their convetional methods. Our idea was to take this all services online and make it an easy to go method for both vendors/providers and Clients.  Our business model ensures that no Client has to suffer from unrealistic prices of event management and neither should he suffer when its about quality. We integrate the both ends and connect through admin panel and make it a seamless service of getting events done.
  
  **Our Team**
- Jaswant Kondur - BT19GCS152
- Yash Nehra - BT19GCS011
- Aayush Mahato - BT19GCS228
- Gabrial Fancon - MS19GCS079
- Chetan Kasu - BT19GCS029
- Neelanjan Mahato - BT19GCS082
+ Jaswant Kondur - BT19GCS152 __
+  Yash Nehra - BT19GCS011__
+ Aayush Mahato - BT19GCS228__
+ Gabrial Fancon - MS19GCS079__
+ Chetan Kasu - BT19GCS029__
+ Neelanjan Mahato - BT19GCS082__
  
  
  
