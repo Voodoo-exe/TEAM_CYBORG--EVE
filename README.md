@@ -1,6 +1,8 @@
 # TEAM_CYBORG--EVE
  EVE - Event Management Company
  
+ <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+ 
  **About Our Project**
  
  EVE- shorty written for EVent Engineers - aims to deliver a single platform to all the event organisation needs. However costly the event management industry maybe, it won't be wrong to say that they really haven't stepped up from their convetional methods. Our idea was to take this all services online and make it an easy to go method for both vendors/providers and Clients.  Our business model ensures that no Client has to suffer from unrealistic prices of event management and neither should he suffer when its about quality. We integrate the both ends and connect through admin panel and make it a seamless service of getting events done.
